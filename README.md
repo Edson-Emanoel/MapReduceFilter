@@ -66,8 +66,8 @@ Retorno:
 
 - **Resultado**: _Cria um novo array transformado com base nos campos(propriedades) do array original._
 
-> [!TIP]
-> Exemplo: Eleva números ao quadrado
+> [!Exemplo:]
+> Eleva números ao quadrado
 
 ```
 const numeros = [1, 2, 3];
