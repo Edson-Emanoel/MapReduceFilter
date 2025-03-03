@@ -66,7 +66,7 @@ Retorno:
 
 - **Resultado**: _Cria um novo array transformado com base nos campos(propriedades) do array original._
 
-> [!Exemplo:]
+> [!TIP] | Exemplo:
 > Eleva números ao quadrado
 
 ```
@@ -79,11 +79,11 @@ console.log(quadrados);
 
 Retorno:
 
-[1, 4, 9, 16]
+[1, 4, 9]
      ou
 [
       1,
       4,
-      9
+      9,
 ]
 ```
